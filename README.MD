@@ -1,3 +1,6 @@
+
+
+
 # Hi there, I'm Siphelele Shabalala :wave:
 [![Siphelele's GitHub stats](https://github-readme-stats.vercel.app/api?username=SipheleleMshengu&show_icons=true&theme=radical&count_private=true)](https://github.com/SipheleleMshengu)
 I’m a student at **WeThinkCode_** with a growing passion for software development and quality assurance. Skilled in a range of modern technologies, I’m dedicated to building robust applications and delivering reliable solutions through collaborative work.
