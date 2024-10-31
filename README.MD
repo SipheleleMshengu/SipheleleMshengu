@@ -7,7 +7,7 @@ I’m a student at **WeThinkCode_** with a growing passion for software developm
 ## :rocket: About Me
 - :mortar_board: **WeThinkCode_** student, expanding my skills in **software development** and **QA**
 - :jigsaw: Focused on enhancing my abilities in **automation**, **CI/CD**, and **DevOps**
-- :speech_balloon: Ask me about: **test automation**, **CI/CD pipelines**, and **Software Development Lifecycle along with some Agile Methodoligies**
+- :speech_balloon: Ask me about: **test automation**, **CI/CD pipelines**, and **Software Development Lifecycle along with some Agile Methodoligies.*
 - :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/siphelele-shabalala-693300316) or via [Email](mailto:sipheleleshabalala5@gmail.com)
 ---
 ## :hammer_and_wrench: Skills and Technologies
